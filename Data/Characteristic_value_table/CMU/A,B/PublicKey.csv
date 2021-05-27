@@ -1,0 +1,148 @@
+﻿A,B,weight,backwardweight,SUM,Diff,Normalized_weight,Normalized_backward_weight,Weight_greater_than_mean,Backward_weight_greater_than_mean
+ElGamal encryption,Diffie–Hellman key exchange,4310,2128,6438,2182,0.0135861855917083,0.00865614207788087,1,1
+Public key infrastructure,Government Communications Headquarters,241,0,241,241,0.000379381183637809,0,1,0
+Public-key cryptography,Man-in-the-middle attack,1876,8343,10219,6467,8.8464473190997E-05,0.0544038916747635,1,1
+Public-key cryptography,PGP word list,809,0,809,809,3.81491251660536E-05,0,1,0
+Cryptography,Social engineering (security),1812,0,1812,1812,0.000212014903290432,0,1,0
+Digital signature,Public-key cryptography,18245,25281,43526,7036,0.0156177908422993,0.0703365616018741,1,1
+Discrete logarithm,Group (mathematics),2594,0,2594,2594,0.00548459598148685,0,1,0
+Transport Layer Security,Tcpcrypt,645,88,733,557,5.28449466180012E-05,0.0763888888888889,1,1
+Key (cryptography),Ciphertext,2331,831,3162,1500,0.00678026248429283,0.00843526366543166,1,1
+Certificate authority,OpenSSL,2549,0,2549,2549,0.00175327337308062,0,1,0
+Certificate authority,Reseller,104,0,104,104,7.15341038840267E-05,0,1,0
+Diffie–Hellman key exchange,Whitfield Diffie,8789,4731,13520,4058,0.0102146957266566,0.0860666921355673,1,1
+Prime number,Mathematical analysis,58,0,58,58,1.81426493961157E-05,0,0,0
+Prime number,Infinite product,37,0,37,37,1.15737590975221E-05,0,0,0
+Prime number,Sophie Germain prime,103,283,386,180,3.22188428931019E-05,0.0192203205650638,1,1
+Public-key cryptography,Algorithm,3267,0,3267,3267,0.000154058333643383,0,1,0
+GNU Privacy Guard,KGPG,1282,93,1375,1189,0.00145447614466251,0.497326203208556,1,1
+Symmetric-key algorithm,Initialization vector,401,36,437,365,0.00034555858122781,0.001085776330076,1,0
+Discrete logarithm,Diffie–Hellman key exchange,1970,5496,7466,3526,0.00416524829742833,0.0223562767199404,1,1
+Discrete logarithm,ElGamal encryption,1417,1309,2726,108,0.00299601869921621,0.0288834951456311,1,1
+Transport Layer Security,Internet Engineering Task Force,8287,0,8287,8287,0.000678955151354072,0,1,0
+Discrete logarithm,Average-case complexity,27,0,27,27,5.70871594063781E-05,0,0,0
+ElGamal encryption,Homomorphic encryption,2095,2554,4649,459,0.00660395796163085,0.0411869053378487,1,1
+Public-key cryptography,Clifford Cocks,874,460,1334,414,4.1214258832053E-05,0.0351816443594646,1,1
+Public-key cryptography,One-time pad,2153,1650,3803,503,0.00010152665819841,0.0127457417635472,1,1
+Public-key cryptography,Padlock,113,12,125,101,5.32861698858351E-06,0.000610314311870613,0,0
+Digital signature,Digital signature forgery,2150,429,2579,1721,0.00184040834809227,0.713810316139767,1,1
+Digital Signature Algorithm,ElGamal signature scheme,3874,2137,6011,1737,0.0180524424852165,0.105975700471113,1,1
+Symmetric-key algorithm,Key (cryptography),4553,930,5483,3623,0.00392351177139706,0.0189355377285499,1,1
+Transport Layer Security,Request for Comments,8327,0,8327,8327,0.000682232357345886,0,1,0
+Prime number,Proportionality (mathematics),619,0,619,619,0.000193625861658545,0,1,0
+Prime number,Twin prime,7204,2730,9934,4474,0.00225344217671754,0.0326430074612588,1,1
+ElGamal encryption,Taher Elgamal,11742,1092,12834,10650,0.0370136870575033,0.0911443118270595,1,1
+Public-key cryptography,Quantum cryptography,1208,330,1538,878,5.69643302850343E-05,0.00521631917550543,1,1
+Public-key cryptography,Taher Elgamal,180,22,202,158,8.48806245969055E-06,0.00183624071446457,1,0
+Public-key cryptography,Three-pass protocol,497,0,497,497,2.34364835692567E-05,0,1,0
+GNU Privacy Guard,Horde (software),897,0,897,897,0.00101767948655404,0,1,0
+Certificate authority,X.509,12256,5541,17797,6715,0.00843001901156376,0.0209696524737075,1,1
+Prime number,Divisor function,816,0,816,816,0.000255248308745351,0,1,0
+Key exchange,Secure channel,147,0,147,147,0.000664280678921967,0,1,0
+Pretty Good Privacy,United States Court of Appeals for the Sixth Circuit,236,0,236,236,0.000121953677239258,0,1,0
+Public-key cryptography,Trusted third party,35,0,35,35,1.65045658938427E-06,0,0,0
+ElGamal encryption,ElGamal signature scheme,5626,2116,7742,3510,0.0177345429556731,0.104934292090255,1,1
+Public-key cryptography,Factorization,396,406,802,10,1.86737374113192E-05,0.0083283759666865,1,1
+Public-key cryptography,Hybrid cryptosystem,1772,792,2564,980,8.3560259325398E-05,0.16751269035533,1,1
+Public-key cryptography,Merkle–Hellman knapsack cryptosystem,4065,30,4095,4035,0.000191688743881345,0.00669792364367046,1,1
+Cryptography,Phil Zimmermann,471,255,726,216,5.510983413344E-05,0.010818378515973,1,1
+Cryptography,Steven Levy,1724,0,1724,1724,0.000201718373770808,0,1,0
+Encryption,Digital rights management,481,5548,6029,5067,0.000459604930863379,0.00575313373650896,1,1
+Key exchange,Symmetric-key algorithm,1398,1316,2714,82,0.0063174448240334,0.00793832716041936,1,1
+Certificate authority,Public key certificate,30598,7820,38418,22778,0.021046158756187,0.0300137787040342,1,1
+ElGamal encryption,Computational Diffie–Hellman assumption,1335,0,1335,1335,0.00420825006146882,0,1,0
+Integer factorization,General number field sieve,8465,1383,9848,7082,0.00623210983237723,0.0355061487509948,1,1
+Public-key cryptography,Encryption,1989,15037,17026,13048,9.37930901795805E-05,0.0431043626075316,1,1
+Encryption,USB flash drive,628,0,628,628,0.000600066313060711,0,1,0
+Transport Layer Security,SEED,3783,0,3783,3783,0.000309941756675812,0,1,0
+Certificate authority,Key Ceremony,2630,498,3128,2132,0.00180898743475952,0.356733524355301,1,1
+Transport Layer Security,Internet standard,1878,0,1878,1878,0.000153864821315669,0,1,0
+Public-key cryptography,Neal Koblitz,54,0,54,54,2.54641873790716E-06,0,0,0
+Public key certificate,Certificate signing request,917,3746,4663,2829,0.00117317585227963,0.116108235439978,1,1
+Public-key cryptography,Pretty Good Privacy,11893,8554,20447,3339,0.000560825149072776,0.0176811887777987,1,1
+Public-key cryptography,Cryptographic hash function,546,225,771,321,2.57471227943947E-05,0.000645850197199594,1,1
+Symmetric-key algorithm,CBC-MAC,773,0,773,773,0.000666126641618696,0,1,0
+Key (cryptography),HMAC,465,1926,2391,1461,0.00135256201424117,0.0224339561105158,1,1
+Certificate authority,Kerberos (protocol),506,0,506,506,0.000348040928512668,0,1,0
+ElGamal encryption,Ephemeral key,837,0,837,837,0.00263843093741528,0,1,0
+Integer factorization,RSA numbers,7187,2222,9409,4965,0.00529121953517958,0.078730113737023,1,1
+Public-key cryptography,Digital signature,25281,18245,43526,7036,0.00119214837246354,0.140559155027234,1,1
+Public-key cryptography,Authentication,428,146,574,282,2.0182726293042E-05,0.002064421255055,1,1
+Public-key cryptography,Seal (emblem),363,0,363,363,1.71175926270426E-05,0,1,0
+Public-key cryptography,SILC (protocol),392,0,392,392,1.84851138011039E-05,0,1,1
+Public-key cryptography,Web of trust,1828,301,2129,1527,8.62009898684129E-05,0.0147657591366201,1,1
+Symmetric-key algorithm,Cryptographic primitive,1869,1325,3194,544,0.00161059598083486,0.0406703704840541,1,1
+Symmetric-key algorithm,Message authentication code,1172,653,1825,519,0.00100996173865086,0.00413225755418446,1,1
+Transport Layer Security,Network Security Services,3549,407,3956,3142,0.0002907701016237,0.13584779706275,1,1
+Key exchange,Algorithm,296,0,296,296,0.00133759919021022,0,1,0
+Public-key cryptography,Letter box,137,0,137,137,6.46035864987558E-06,0,1,0
+Public-key cryptography,Non-repudiation,3516,180,3696,3336,0.000165800153379289,0.00883435582822086,1,1
+Public-key cryptography,Rabin cryptosystem,505,0,505,505,2.38137307896874E-05,0,1,0
+Symmetric-key algorithm,Stream cipher,6134,4418,10552,1716,0.00528592602805832,0.0682780576762588,1,1
+Pretty Good Privacy,ZRTP,570,0,570,570,0.000294549135704988,0,1,0
+Public-key cryptography,Web browser,43,0,43,43,2.02770380981496E-06,0,0,0
+Cryptography,Firefox,20,21,41,1,2.340120345369E-06,2.81126003352093E-05,0,0
+Public-key cryptography,James H. Ellis,1078,339,1417,739,5.08340629530356E-05,0.235090152565881,1,1
+Public-key cryptography,Secure channel,1234,35,1269,1199,5.81903837514341E-05,0.00538876058506543,1,1
+Public-key cryptography,X.509,276,4548,4824,4272,1.30150291048588E-05,0.017211690931316,1,1
+Digital signature,European Union,455,0,455,455,0.000389481766689294,0,1,0
+Digital signature,Non-repudiation,5820,1505,7325,4315,0.00498194259809163,0.0738650306748466,1,1
+Digital Signature Algorithm,Exponentiation by squaring,265,0,265,265,0.00123487280810077,0,1,0
+Discrete logarithm,Pohlig–Hellman algorithm,2857,250,3107,2607,0.00604066720088971,0.0620963735717834,1,1
+Transport Layer Security,FTPS,2845,4544,7389,1699,0.000233091276167773,0.141429860873354,1,1
+Key exchange,Pretty Good Privacy,569,0,569,569,0.00257126330820816,0,1,0
+Pretty Good Privacy,GNU Privacy Guard,11274,14811,26085,3537,0.00582587185252286,0.0448095797078649,1,1
+GNU Privacy Guard,MD5,137,0,137,137,0.00015543153808016,0,1,0
+Public key infrastructure,Bootstrapping,397,0,397,397,0.000624955725743611,0,1,0
+Public-key cryptography,Prime number,96,4767,4863,4671,4.52696664516829E-06,0.0104379470942568,0,1
+Public-key cryptography,Key distribution,2374,847,3221,1527,0.000111948112662808,0.106300200803213,1,1
+Public-key cryptography,Malcolm J. Williamson,514,0,514,514,2.42381339126719E-05,0,1,0
+Public-key cryptography,Secure Shell,5536,13320,18856,7784,0.000261055076538038,0.053574014189874,1,1
+Public-key cryptography,Whitfield Diffie,1006,1733,2739,727,4.74388379691594E-05,0.0315268605941531,1,1
+Cryptography,Computer,861,354,1215,507,0.000100742180868136,0.000214387197813977,1,1
+Transport Layer Security,40-bit encryption,1756,0,1756,1756,0.000143869343040636,0,1,0
+Pretty Good Privacy,Anti-nuclear movement,360,0,360,360,0.000186031033076834,0,1,0
+Pretty Good Privacy,KGPG,626,0,626,626,0.000323487296405829,0,1,0
+Public key infrastructure,Cryptographic primitive,45,0,45,45,7.08388102228274E-05,0,0,0
+Digital signature,RSA,74,0,74,74,6.33442873296873E-05,0,1,0
+GNU Privacy Guard,SHA-1,74,0,74,74,8.39557212987723E-05,0,1,0
+ElGamal encryption,GNU Privacy Guard,756,2008,2764,1252,0.0023830989112138,0.00607505476020476,1,1
+Public-key cryptography,Alice and Bob,1389,2665,4054,1276,6.54995486472787E-05,0.0808482237660407,1,1
+Encryption,Cipher,9996,3447,13443,6549,0.00955137398941858,0.0225044068681857,1,1
+Transport Layer Security,Server Name Indication,1052,6058,7110,5006,8.6190517584709E-05,0.159976761381641,1,1
+Public-key cryptography,Claude Shannon,570,0,570,570,2.68788644556867E-05,0,1,0
+Public key infrastructure,XML Encryption,24,0,24,24,3.7780698785508E-05,0,0,0
+Public-key cryptography,Cramer–Shoup cryptosystem,2874,20,2894,2854,0.000135526063939726,0.0436681222707424,1,1
+Public-key cryptography,Merkle's Puzzles,1232,34,1266,1198,5.80960719463264E-05,0.0685483870967742,1,1
+Digital signature,Key generation,1376,0,1376,1376,0.00117786134277905,0,1,0
+Digital signature,Smart card,853,0,853,853,0.000730171312057072,0,1,0
+Digital Signature Algorithm,Strong cryptography,261,0,261,261,0.00121623321854453,0,1,0
+GNU Privacy Guard,Aqua (user interface),915,0,915,915,0.00103810114849158,0,1,0
+Symmetric-key algorithm,Algorithm,1821,0,1821,1821,0.00156923236013926,0,1,0
+Discrete logarithm,General number field sieve,2883,0,2883,2883,0.00609564002105882,0,1,0
+Discrete logarithm,Multiplicative group of integers modulo n,1306,0,1306,1306,0.00276132704387888,0,1,0
+Transport Layer Security,Java Secure Socket Extension,2173,397,2570,1776,0.000178034215505297,0.442093541202673,1,1
+Transport Layer Security,Pseudorandom function family,2351,0,2351,2351,0.00019261778216887,0,1,0
+Public-key cryptography,Brute-force attack,2082,0,2082,2082,9.81785891170873E-05,0,1,0
+Public-key cryptography,Leonard Adleman,174,0,174,174,8.20512704436753E-06,0,1,0
+Public-key cryptography,Ralph Merkle,759,2641,3400,1882,3.57913300383618E-05,0.07026926351639,1,1
+Cryptography,Cryptography standards,2001,119,2120,1882,0.000234129040554169,0.00910551687198714,1,1
+Key (cryptography),Cryptographic key types,2837,412,3249,2425,0.00825208265462838,0.586059743954481,1,1
+Key (cryptography),Message authentication code,4585,0,4585,4585,0.0133365523339694,0,1,0
+Public-key cryptography,Denial-of-service attack,22,0,22,22,1.0374298561844E-06,0,0,0
+Prime number,Euclid's Elements,557,44,601,513,0.000174231995062697,0.000810611643330877,1,1
+Cryptography,Microsoft Outlook,1312,0,1312,1312,0.000153511894656206,0,1,0
+Public-key cryptography,Public key certificate,1377,4684,6061,3307,6.49336778166327E-05,0.0179775625894752,1,1
+Public-key cryptography,Pseudonymity,216,0,216,216,1.01856749516287E-05,0,1,0
+Encryption,Cryptography,34654,11437,46091,23217,0.0331125764535125,0.0107055737876782,1,1
+Encryption,Key management,1719,0,1719,1719,0.00164253820406268,0,1,0
+Pretty Good Privacy,United States Munitions List,1696,0,1696,1696,0.000876412866939753,0,1,0
+Diffie–Hellman key exchange,Cyclic group,1050,0,1050,1050,0.0012203243273398,0,1,0
+Integer factorization,Euler's factorization method,9191,0,9191,9191,0.00676660619839092,0,1,0
+Public-key cryptography,Key exchange,4054,3443,7497,611,0.000191170028953253,0.108907446068198,1,1
+Public-key cryptography,Cryptosystem,2084,1118,3202,966,9.8272900922195E-05,0.0976931142957008,1,1
+Public-key cryptography,History of cryptography,1106,1515,2621,409,5.2154428224543E-05,0.0248719464144996,1,1
+Public-key cryptography,ZRTP,431,0,431,431,2.03241940007035E-05,0,1,0
+Transport Layer Security,Microsoft Windows,202,0,202,202,1.65498902586609E-05,0,1,0
+Transport Layer Security,Transmission Control Protocol,3483,5481,8964,1998,0.000285362711737207,0.00953250547845142,1,1
+Key exchange,GNU Privacy Guard,23,0,23,23,0.000103935072212281,0,0,0

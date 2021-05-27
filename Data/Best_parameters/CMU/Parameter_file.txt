@@ -1,0 +1,4 @@
+Global Warming [0.15 0.2  0.1  0.55]
+Newton Law [0.55 0.1  0.05 0.3 ]
+Parallel Postulate [0.05 0.5  0.45 0.  ]
+Public-key Cryp [0.05 0.2  0.5  0.25]

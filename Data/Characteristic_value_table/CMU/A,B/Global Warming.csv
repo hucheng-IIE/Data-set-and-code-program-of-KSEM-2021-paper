@@ -1,0 +1,238 @@
+﻿A,B,weight,backwardweight,SUM,Diff,Normalized_weight,Normalized_backward_weight,Weight_greater_than_mean,Backward_weight_greater_than_mean
+Troposphere,Lapse rate,1035,2046,3081,1011,0.000906631020446062,0.0854458133221967,1,1
+Kyoto Protocol,New Zealand,417,0,417,417,0.000180179790913667,0,1,0
+Northern Hemisphere,Axial tilt,3160,38,3198,3122,0.00114717158673797,0.00041935661866137,1,0
+United Nations Framework Convention on Climate Change,United Nations Convention to Combat Desertification,540,823,1363,283,0.000256690958821541,0.0677422010041979,1,1
+Global warming,Attribution of recent climate change,24635,3303,27938,21332,0.000152676135627997,0.072844761043601,1,1
+Global warming,Cloud forcing,291,0,291,291,1.80348104192194E-06,0,1,0
+Global warming,Flood,376,24,400,352,2.33027103698505E-06,9.36128717698684E-05,1,0
+Global warming,United Nations Framework Convention on Climate Change,12294,444,12738,11850,7.61924258741868E-05,0.00295477988886301,1,1
+Global warming,International Union of Geodesy and Geophysics,127,0,127,127,7.87086227917823E-07,0,1,0
+Global warming,Methane,7538,208,7746,7330,4.67169762680673E-05,0.000194976907422527,1,1
+Global warming,NASA,247,323,570,76,1.53078975035986E-06,0.00014167406105845,1,1
+Global warming,Proxy (climate),10667,170,10837,10497,6.61090456157435E-05,0.0166438222048169,1,1
+Global warming,Royal Society,747,0,747,747,4.62955442720169E-06,0,1,0
+Global warming,Temperature record of the past 1000 years,3087,10,3097,3077,1.91317731148214E-05,0.000413907284768212,1,0
+Stratosphere,Atmosphere of Earth,27228,19811,47039,7417,0.0115101368931846,0.0402115822184875,1,1
+Stratosphere,Léon Teisserenc de Bort,262,12,274,250,0.000110755687748434,0.036036036036036,1,0
+Intergovernmental Panel on Climate Change,Working group,112,0,112,112,6.33808595463175E-05,0,1,0
+Greenhouse gas,Nitrogen trifluoride,1262,746,2008,516,0.00021329677203561,0.0626996133804001,1,1
+Attribution of recent climate change,Carbon dioxide,65,36,101,29,0.000191139367064041,8.7033885192635E-05,1,0
+Northern Hemisphere,Arctic,680,0,680,680,0.000246859708538551,0,1,0
+Carbon dioxide,Combustion,84,137,221,53,1.4505680096221E-05,0.000503482111684828,1,1
+Troposphere,Zonal flow,20,0,20,20,1.75194400086196E-05,0,0,0
+Northern Hemisphere,Tropics,938,2380,3318,1442,0.000340521186189942,0.0148471615720524,1,1
+United Nations Framework Convention on Climate Change,Human impact on the environment,6758,11,6769,6747,0.00321243981428884,5.54239935506626E-05,1,0
+Global warming,Albrecht effect,446,0,446,446,2.76409809174291E-06,0,1,0
+Global warming,European Science Foundation,139,0,139,139,8.61456580162027E-07,0,1,0
+Global warming,Intergovernmental Panel on Climate Change,36156,2772,38928,33384,0.000224077871311786,0.00549035919070679,1,1
+Global warming,Permafrost,8231,340,8571,7891,5.10118641101701E-05,0.00365914031726899,1,1
+Fossil fuel,Abiogenic petroleum origin,1697,1489,3186,208,0.000607138474440257,0.0990224113852497,1,1
+Gross domestic product,Penn effect,735,23,758,712,3.39231045834545E-05,0.00705954573357888,1,0
+Stratosphere,Richard Assmann,236,0,236,236,9.97646653001162E-05,0,1,0
+Greenhouse gas,Absorption (electromagnetic radiation),2993,0,2993,2993,0.000505861520366546,0,1,0
+Greenhouse gas,Diatomic molecule,692,0,692,692,0.000116958293382442,0,1,0
+Carbon dioxide,Pascal (unit),559,0,559,559,9.65318473069946E-05,0,1,0
+Troposphere,Gas constant,69,0,69,69,6.04420680297375E-05,0,0,0
+Troposphere,Vapor pressure,529,0,529,529,0.000463389188227987,0,1,0
+Attribution of recent climate change,Effects of global warming,533,2859,3392,2326,0.00156734280992513,0.00820728637085222,1,1
+Climate change,Ice age,998,168,1166,830,0.000136643707420356,0.000134947888427014,1,1
+Climate change in the Arctic,Younger Dryas,442,0,442,442,0.00171828653399836,0,1,0
+Global warming,2010 United Nations Climate Change Conference,433,0,433,433,2.68353021014502E-06,0,1,0
+Global warming,Absorption (electromagnetic radiation),537,0,537,537,3.32807326292812E-06,0,1,0
+Global warming,History of climate change science,6007,1910,7917,4097,3.72285588275777E-05,0.0481035611746336,1,1
+Global warming,Network of African Science Academies,263,0,263,263,1.6299502200188E-06,0,1,1
+Fossil fuel,Fossil fuel power station,2463,2045,4508,418,0.000881191551294257,0.0333741330069359,1,1
+Global warming,Developed country,216,0,216,216,1.33866634039567E-06,0,1,0
+Instrumental temperature record,MMTS (meteorology),209,0,209,209,0.000502989054573109,0,1,0
+Attribution of recent climate change,Radiative forcing,84,0,84,84,0.000247010874359683,0,1,0
+Global warming,United Nations Environment Programme,119,692,811,573,7.37505993088354E-07,0.00229048818511911,1,1
+Carbon cycle,Ocean,26,2095,2121,2069,2.0786546946816E-05,0.00354348421754118,0,1
+Carbon dioxide,Sedimentary rock,10,0,10,10,1.72686667812155E-06,0,0,0
+Northern Hemisphere,Pacific Ocean,1395,76,1471,1319,0.000506425431487174,0.000113239652354267,1,0
+United Nations Framework Convention on Climate Change,Earth Summit,11711,18871,30582,7160,0.00556686633103532,0.103892314468179,1,1
+Global warming,Asian brown cloud,888,0,888,888,5.50340606607108E-06,0,1,0
+Global warming,Climate change and agriculture,8037,1845,9882,6192,4.98095434155555E-05,0.0757575757575758,1,1
+Global warming,Instrumental temperature record,36566,2009,38575,34557,0.000226618858346796,0.0725218395783698,1,1
+Global warming,Technology,142,0,142,142,8.80049168223078E-07,0,1,0
+Global warming,Index of climate change articles,516,304,820,212,3.19792514650076E-06,0.216987865810136,1,1
+United Nations Framework Convention on Climate Change,United States,231,0,231,231,0.000109806687940326,0,1,0
+Climate change in the Arctic,Intergovernmental Panel on Climate Change,356,0,356,356,0.00138395928982673,0,1,0
+Climate change,Pliocene,537,0,537,537,7.35247203253818E-05,0,1,0
+Global warming,American Meteorological Society,56,0,56,56,3.47061643806284E-07,0,0,0
+Gross domestic product,Household final consumption expenditure,1764,0,1764,1764,8.14154510002908E-05,0,1,0
+Instrumental temperature record,Stevenson screen,186,0,186,186,0.000447636192108126,0,1,0
+Global warming,Carbon cycle,663,945,1608,282,4.10896196149226E-06,0.00906605266944884,1,1
+Global warming,Climate model,6764,10,6774,6754,4.19200885483162E-05,0.000747160789001793,1,0
+Global warming,Climate change and ecosystems,4751,223,4974,4528,2.9444461959351E-05,0.121459694989107,1,1
+Global warming,Geological Society of America,139,0,139,139,8.61456580162027E-07,0,1,0
+Global warming,Polish Academy of Sciences,153,0,153,153,9.48221991113598E-07,0,1,0
+Global warming,Salinity,56,0,56,56,3.47061643806284E-07,0,0,0
+Global warming,Wallace Smith Broecker,864,257,1121,607,5.35466536158267E-06,0.0845116737915159,1,1
+Carbon dioxide,Carbon sequestration,1117,164,1281,953,0.000192891007946177,0.00128178073733655,1,1
+Carbon dioxide,Volcano,2419,316,2735,2103,0.000417729049437603,0.000183225900720553,1,1
+Climate change,Polar desert,283,0,283,283,3.87476645290187E-05,0,1,0
+Gross domestic product,Profit (accounting),463,0,463,463,2.1369248193387E-05,0,1,0
+Gross domestic product,United Nations,288,0,288,288,1.32923185306597E-05,0,1,0
+Carbon cycle,Combustion,86,0,86,86,6.87555014394684E-05,0,1,0
+World Meteorological Organization,Hydrology,166,0,166,166,0.00049424031393192,0,1,0
+Attribution of recent climate change,Global warming,3303,24635,27938,21332,0.0097128204525004,0.0106873249237441,1,1
+United Nations Framework Convention on Climate Change,Greenhouse gas inventory,1654,29,1683,1625,0.000786234899797832,0.0109022556390977,1,1
+Climate change in the Arctic,Greenland ice sheet,1664,0,1664,1664,0.00646884342211147,0,1,0
+Global warming,Satellite temperature measurements,532,60,592,472,3.2970856161597E-06,0.011463507833397,1,1
+Stratosphere,Geographical pole,413,0,413,413,0.000174588164275203,0,1,0
+Fossil fuel,Fly ash,207,0,207,207,7.40587296459241E-05,0,1,0
+Greenhouse gas,Fossil fuel,4918,4651,9569,267,0.000831215154414525,0.0108159520758675,1,1
+Attribution of recent climate change,Climate oscillation,473,0,473,473,0.00139090647109679,0,1,0
+Carbon dioxide,Must,222,0,222,222,3.83364402542984E-05,0,1,0
+Global warming,Carbon sink,202,0,202,202,1.2519009294441E-06,0,1,0
+Carbon dioxide,Tin dioxide,64,0,64,64,1.10519467399779E-05,0,1,0
+Kyoto Protocol,Group of 77,20,0,20,20,8.64171659058355E-06,0,0,0
+Attribution of recent climate change,Slash-and-burn,23,0,23,23,6.76339298841989E-05,0,0,0
+Global warming,India,92,0,92,92,5.70172700538896E-07,0,0,0
+United Nations Framework Convention on Climate Change,Yvo de Boer,20,0,20,20,9.50707254894597E-06,0,0,0
+Northern Hemisphere,Atlantic Ocean,3773,0,3773,3773,0.00136970835340581,0,1,0
+Global warming,Cancún,165,0,165,165,1.0225923433578E-06,0,1,0
+Global warming,European Geosciences Union,104,0,104,104,6.44543052783099E-07,0,0,0
+Global warming,Global dimming,2169,907,3076,1262,1.34424411681398E-05,0.0426482343536935,1,1
+Global warming,Glossary of climate change,612,637,1249,25,3.79288796445439E-06,0.313330054107231,1,1
+Global warming,Group of 77,762,0,762,762,4.72251736750694E-06,0,1,0
+Global warming,Renewable energy,770,765,1535,5,4.77209760233641E-06,0.00102952239581301,1,1
+Stratosphere,Convective overshoot,728,0,728,728,0.000307748628552901,0,1,0
+Global warming,2009 United Nations Climate Change Conference,105,0,105,105,6.50740582136783E-07,0,0,0
+Intergovernmental Panel on Climate Change,Peer review,647,0,647,647,0.000366137643986317,0,1,0
+Stratosphere,Gravity wave,230,0,230,230,9.72282755043505E-05,0,1,0
+Fossil fuel,Energy development,173,1027,1200,854,6.18944938586709E-05,0.0469228309041897,1,1
+Northern Hemisphere,Tropical cyclone,1022,2117,3139,1095,0.000371015620774116,0.00278091950308633,1,1
+United Nations Framework Convention on Climate Change,Montreal Protocol,2402,66,2468,2336,0.00114179941312841,0.000563953140620861,1,0
+Global warming,European Academy of Sciences and Arts,168,0,168,168,1.04118493141885E-06,0,1,0
+Global warming,Infrared,1235,70,1305,1165,7.65394875179931E-06,0.000130418662537984,1,1
+Global warming,Mangrove,76,0,76,76,4.71012230879957E-07,0,0,0
+Global warming,National Oceanic and Atmospheric Administration,160,79,239,81,9.91604696589384E-07,0.000524993686784779,1,1
+Global warming,Orbital forcing,1013,0,1013,1013,6.27809723528154E-06,0,1,0
+Carbon dioxide,Industrial Revolution,1374,0,1374,1374,0.000237271481573901,0,1,0
+Fossil fuel,Bottom ash,152,0,152,152,5.4381289401838E-05,0,1,0
+Global warming,Developing country,1039,239,1278,800,6.43923299847731E-06,0.000496184156985193,1,1
+Gross domestic product,Lists of countries by GDP,614571,375,614946,614196,0.0283648385128683,0.000168812688591909,1,0
+Intergovernmental Panel on Climate Change,Joseph J. Romm,18,0,18,18,1.01862095699439E-05,0,0,0
+Global warming,Climate change in the Arctic,2329,922,3251,1407,1.44340458647292E-05,0.0430097494985306,1,1
+Greenhouse gas,Atmospheric methane,2403,1661,4064,742,0.000406142744216776,0.100825543280321,1,1
+World Meteorological Organization,BUFR,79,10,89,69,0.000235210751810974,0.909090909090909,1,1
+Instrumental temperature record,North Atlantic oscillation,10,0,10,10,2.40664619412971E-05,0,0,0
+Fossil fuel,Sawmill,25,0,25,25,8.94429102003915E-06,0,0,0
+Greenhouse gas,Redox,10,0,10,10,1.69014874830119E-06,0,0,0
+Global warming,Crop yield,500,0,500,500,3.09876467684182E-06,0,1,0
+Troposphere,Landform,371,0,371,371,0.000324985612159893,0,1,0
+World Meteorological Organization,Intergovernmental Panel on Climate Change,784,8546,9330,7762,0.00233424341037726,0.0169266268556206,1,1
+Northern Hemisphere,North America,28003,43164,71167,15161,0.0101659006150074,0.0209933976143866,1,1
+Climate change,Anthropocene,1501,0,1501,1501,0.000205513231300555,0,1,0
+Global warming,Fossil fuel,3484,3071,6555,413,2.15921922682338E-05,0.00714164455493206,1,1
+Global warming,Ecosystem,860,1623,2483,763,5.32987524416794E-06,0.00604116028988636,1,1
+Global warming,Effects of global warming,42365,13672,56037,28693,0.000262558331068808,0.039247995544698,1,1
+Global warming,Emission spectrum,571,0,571,571,3.53878926095336E-06,0,1,0
+Global warming,Pollutant,671,0,671,671,4.15854219632173E-06,0,1,0
+Global warming,Radiative cooling,700,0,700,700,4.33827054757855E-06,0,1,0
+Global warming,Soot,862,257,1119,605,5.3422703028753E-06,0.00739440672114167,1,1
+IPCC Fourth Assessment Report,Intergovernmental Panel on Climate Change,1808,1956,3764,148,0.0145097346837231,0.00387414955881042,1,1
+Stratosphere,Northrop Grumman RQ-4 Global Hawk,1224,0,1224,1224,0.000517423518336196,0,1,0
+Global warming,Canadian Foundation for Climate and Atmospheric Sciences,194,0,194,194,1.20232069461463E-06,0,1,1
+Global warming,Cryosphere,146,0,146,146,9.04839285637813E-07,0,1,0
+Instrumental temperature record,Global warming,2009,36566,38575,34557,0.00483495220400658,0.0158633133006546,1,1
+Intergovernmental Panel on Climate Change,United Nations Environment Programme,7716,5152,12868,2564,0.00436648850231595,0.0170528831354532,1,1
+Greenhouse gas,Carbon emissions reporting,504,90,594,414,8.51834969143799E-05,0.0844277673545966,1,1
+Greenhouse gas,Year,15,0,15,15,2.53522312245178E-06,0,0,0
+Kyoto Protocol,Carbon sink,12,3737,3749,3725,5.18502995435013E-06,0.0714190157668419,0,1
+Climate change,Palynology,707,11,718,696,9.68007025512941E-05,0.00156516789982925,1,0
+Climate change,Historical document,365,0,365,365,4.99749030144588E-05,0,1,0
+Global warming,Abrupt climate change,1327,497,1824,830,8.2241214523382E-06,0.0205550270896232,1,1
+Global warming,Climate commitment,448,0,448,448,2.77649315045027E-06,0,1,0
+Global warming,Extinction risk from global warming,4659,157,4816,4502,2.88742892588121E-05,0.00958018061996583,1,1
+Global warming,Irradiance,704,0,704,704,4.36306066499329E-06,0,1,0
+Global warming,National Snow and Ice Data Center,239,0,239,239,1.48120951553039E-06,0,1,0
+Global warming,Ocean current,109,0,109,109,6.75530699551518E-07,0,0,0
+Global warming,Pew Research Center,2058,0,2058,2058,1.27545154098809E-05,0,1,0
+Stratosphere,Airliner,191,0,191,191,8.07417418318737E-05,0,1,0
+Carbon dioxide,Apnea,484,0,484,484,8.3580347221083E-05,0,1,0
+Climate change,Red giant,483,0,483,483,6.6131173030092E-05,0,1,0
+Instrumental temperature record,National Climatic Data Center,611,0,611,611,0.00147046082461325,0,1,0
+Intergovernmental Panel on Climate Change,IPCC Summary for Policymakers,1831,406,2237,1425,0.00103616387347596,0.791423001949318,1,1
+Intergovernmental Panel on Climate Change,Rajendra K. Pachauri,2181,2801,4982,620,0.0012342290595582,0.244458020596963,1,1
+Instrumental temperature record,Antarctic Peninsula,12,0,12,12,2.88797543295565E-05,0,0,0
+Global warming,Science (journal),10,0,10,10,6.19752935368365E-08,0,0,0
+Climate change,Deforestation,908,134,1042,774,0.000124321128594873,0.000316715237548246,1,1
+Climate change,Toba catastrophe theory,481,12,493,469,6.58573379450813E-05,3.12919670912813E-05,1,0
+Global warming,James Hansen,1085,443,1528,642,6.72431934874676E-06,0.0337087201339218,1,1
+Global warming,Radiative forcing,2523,24,2547,2499,1.56363665593438E-05,0.000455987688332415,1,0
+Carbon dioxide,Carbon monoxide,9676,12687,22363,3011,0.00167091619775041,0.0509131622984963,1,1
+Climate change,Altimeter,287,0,287,287,3.92953346990402E-05,0,1,0
+Gross domestic product,International Monetary Fund,5407,336,5743,5071,0.000249554049636379,0.000422174727565371,1,1
+Intergovernmental Panel on Climate Change,European Geosciences Union,28,0,28,28,1.58452148865794E-05,0,0,0
+World Meteorological Organization,Intergovernmental organization,1996,0,1996,1996,0.00594279317233803,0,1,0
+World Meteorological Organization,SYNOP,620,66,686,554,0.00184595779902283,0.0203766594627972,1,1
+Northern Hemisphere,South Pole,891,23,914,868,0.00032345882398213,6.31814323505416E-05,1,0
+Climate change,Tide gauge,338,0,338,338,4.62781293668139E-05,0,1,0
+Global warming,El Niño–Southern Oscillation,1772,39,1811,1733,1.09820220147274E-05,0.000978498130817673,1,0
+Global warming,Kyoto Protocol,1439,4141,5580,2702,8.91824473995077E-06,0.0250496031746032,1,1
+Global warming,Global warming controversy,6111,3823,9934,2288,3.78731018803608E-05,0.0777601497030347,1,1
+Global warming,Greenhouse gas,67421,7382,74803,60039,0.000417843626554705,0.00873366578525499,1,1
+Global warming,Malnutrition,474,0,474,474,2.93762891364605E-06,0,1,0
+Global warming,Sea ice,3904,0,3904,3904,2.4195154596781E-05,0,1,0
+Global warming,Special Report on Emissions Scenarios,397,0,397,397,2.46041915341241E-06,0,1,0
+Global warming,Twomey effect,2776,0,2776,2776,1.72043414858258E-05,0,1,0
+Climate change in the Arctic,Polar bear,171,0,171,171,0.000664766962248234,0,1,0
+Carbon dioxide,Carbon dioxide sensor,1110,299,1409,811,0.000191682201271492,0.0246516613076099,1,1
+Intergovernmental Panel on Climate Change,Raymond S. Bradley,10,0,10,10,5.65900531663549E-06,0,0,1
+World Meteorological Organization,List of states with limited recognition,33,0,33,33,9.82525925286347E-05,0,0,0
+Attribution of recent climate change,Enteric fermentation,55,0,55,55,0.00016173331059265,0,1,0
+Global warming,Keeling Curve,406,929,1335,523,2.51619691759556E-06,0.0523527754296985,1,1
+Climate model,Climate,11,1806,1817,1795,4.83490980695524E-05,0.00786390138336737,0,1
+Climate change,Boundary current,316,0,316,316,4.32659434316958E-05,0,1,0
+Global warming,Cloud condensation nuclei,384,0,384,384,2.37985127181452E-06,0,1,0
+Global warming,Industrial Revolution,5621,23,5644,5598,3.48363124970558E-05,1.30934983949079E-05,1,0
+Global warming,Joseph Fourier,1289,0,1289,1289,7.98861533689822E-06,0,1,0
+Global warming,Stefan–Boltzmann law,227,0,227,227,1.40683916328619E-06,0,1,0
+Fossil fuel,Renewable energy,4891,1706,6597,3185,0.00174986109516046,0.00229590223170848,1,1
+Attribution of recent climate change,Environmental impact of aviation,237,0,237,237,0.000696923538371963,0,1,0
+Carbon dioxide,Calcium hydroxide,340,129,469,211,5.87134670561327E-05,0.000842327959411546,1,1
+Northern Hemisphere,South America,1249,17013,18262,15764,0.000453423199948014,0.0112175598691845,1,1
+Global warming,Deforestation,2432,2530,4962,98,1.50723913881586E-05,0.00597977276863479,1,1
+Global warming,Fluid dynamics,82,0,82,82,5.08197407002059E-07,0,0,0
+Global warming,George W. Bush,550,186,736,364,3.40864114452601E-06,2.9635119975234E-05,1,0
+Global warming,Tundra,82,481,563,399,5.08197407002059E-07,0.00161178445650025,0,1
+Climate model,Stefan–Boltzmann law,117,330,447,213,0.000514258588557966,0.00300965826698405,1,1
+Fossil fuel,Redox,181,0,181,181,6.47566669850834E-05,0,1,0
+Gross domestic product,Real gross domestic product,3988,7545,11533,3557,0.000184061688542608,0.478865194211729,1,1
+Troposphere,Atmosphere,1951,3736,5687,1785,0.00170902137284084,0.0154519360415581,1,1
+Troposphere,Water vapor,1662,781,2443,881,0.00145586546471629,0.00595705732046833,1,1
+Northern Hemisphere,Equator,12386,4514,16900,7872,0.00449647698523307,0.0159239151524131,1,1
+Climate model,Albedo,589,0,589,589,0.00258887443299694,0,1,0
+Global warming,Drought,3991,461,4452,3530,2.47343396505514E-05,0.00334574379295579,1,1
+Global warming,Nitrous oxide,10135,505,10640,9630,6.28119599995838E-05,0.00155241315708577,1,1
+Global warming,Svante Arrhenius,995,0,995,995,6.16654170691523E-06,0,1,0
+Stratosphere,Concorde,1452,197,1649,1255,0.000613806330575291,0.000128116998784514,1,1
+Stratosphere,Rossby wave,974,0,974,974,0.000411740610179293,0,1,0
+Climate change,Continental climate,243,0,243,243,3.32709628288041E-05,0,1,0
+Climate change,Primary production,276,0,276,276,3.77892417314812E-05,0,1,0
+Global warming,Geological Society of London,105,0,105,105,6.50740582136783E-07,0,0,0
+Global warming,Wet-bulb temperature,686,81,767,605,4.25150513662698E-06,0.00103431103392796,1,0
+Stratosphere,Ivory Coast,125,0,125,125,5.28414540784514E-05,0,1,0
+Fossil fuel,Environmental law,101,0,101,101,3.61349357209582E-05,0,1,0
+Instrumental temperature record,Pacific decadal oscillation,29,0,29,29,6.97927396297616E-05,0,0,0
+Global warming,World Meteorological Organization,54,0,54,54,3.34666585098917E-07,0,0,0
+World Meteorological Organization,Geophysics,198,0,198,198,0.000589515555171808,0,1,0
+Northern Hemisphere,Asia,5589,9823,15412,4234,0.002028968986797,0.00489287527028366,1,1
+United Nations Framework Convention on Climate Change,Transition economy,601,0,601,601,0.000285687530095827,0,1,0
+Global warming,American Quaternary Association,166,0,166,166,1.02878987271149E-06,0,1,1
+Global warming,Extinction,736,367,1103,369,4.56138160431117E-06,0.000414811130953727,1,1
+Global warming,Extreme weather,6740,3088,9828,3652,4.17713478438278E-05,0.0759786433088109,1,1
+Global warming,Retreat of glaciers since 1850,8225,849,9074,7376,5.0974678934048E-05,0.0383659451398617,1,1
+Global warming,Southern Ocean,50,0,50,50,3.09876467684182E-07,0,0,0
+Global warming,Thermodynamics,80,0,80,80,4.95802348294692E-07,0,0,0
+Global warming,Volumetric heat capacity,1306,0,1306,1306,8.09397333591084E-06,0,1,0
+Carbon dioxide,Ocean acidification,3274,958,4232,2316,0.000565376150416995,0.0211208607081441,1,1
+Fossil fuel,Coal,15047,8770,23817,6277,0.00538338987914116,0.0113135451645237,1,1
+Instrumental temperature record,Attribution of recent climate change,918,551,1469,367,0.00220930120621107,0.0121518205676731,1,1
+Instrumental temperature record,Central England temperature,3118,0,3118,3118,0.00750392283329643,0,1,0
+Greenhouse gas,Bio-energy with carbon capture and storage,848,0,848,848,0.000143324613855941,0,1,0
+Carbon cycle,Peat,60,0,60,60,4.79689544926524E-05,0,1,0
+Attribution of recent climate change,El Niño–Southern Oscillation,11,0,11,11,3.23466621185299E-05,0,0,0

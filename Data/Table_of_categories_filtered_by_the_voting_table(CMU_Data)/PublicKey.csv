@@ -1,0 +1,201 @@
+﻿A,B,0
+Certificate authority,HTTP Secure,0
+Certificate authority,Kerberos (protocol),1
+Certificate authority,Key Ceremony,1
+Certificate authority,OpenSSL,1
+Certificate authority,Public key certificate,1
+Certificate authority,Reseller,0
+Certificate authority,X.509,1
+Cryptography,Computer,0
+Cryptography,Cryptography standards,0
+Cryptography,Firefox,0
+Cryptography,Internet,0
+Cryptography,Microsoft Outlook,0
+Cryptography,Phil Zimmermann,0
+Cryptography,Social engineering (security),0
+Cryptography,Steven Levy,0
+Diffie–Hellman key exchange,Charles Babbage Institute,0
+Diffie–Hellman key exchange,Communication,0
+Diffie–Hellman key exchange,Cyclic group,0
+Diffie–Hellman key exchange,Dc (computer program),0
+Diffie–Hellman key exchange,Power associativity,0
+Diffie–Hellman key exchange,The Code Book,0
+Diffie–Hellman key exchange,Whitfield Diffie,0
+Digital signature,Digital signature forgery,0
+Digital signature,Digital signatures and law,0
+Digital signature,European Union,0
+Digital signature,IBM Lotus Notes,0
+Digital signature,Key generation,1
+Digital signature,Non-repudiation,0
+Digital signature,Public-key cryptography,0
+Digital signature,RSA,0
+Digital signature,Smart card,0
+Digital Signature Algorithm,ElGamal signature scheme,0
+Digital Signature Algorithm,Exponentiation by squaring,0
+Digital Signature Algorithm,Federal government of the United States,0
+Digital Signature Algorithm,Federal Information Processing Standard,1
+Digital Signature Algorithm,Royalties,0
+Digital Signature Algorithm,Strong cryptography,1
+Discrete logarithm,Average-case complexity,0
+Discrete logarithm,Diffie–Hellman key exchange,0
+Discrete logarithm,ElGamal encryption,0
+Discrete logarithm,General number field sieve,0
+Discrete logarithm,Group (mathematics),0
+Discrete logarithm,Multiplicative group of integers modulo n,0
+Discrete logarithm,Multiplicative order,0
+Discrete logarithm,Pohlig–Hellman algorithm,0
+ElGamal encryption,Computational Diffie–Hellman assumption,0
+ElGamal encryption,Diffie–Hellman key exchange,0
+ElGamal encryption,ElGamal signature scheme,0
+ElGamal encryption,Ephemeral key,0
+ElGamal encryption,GNU Privacy Guard,0
+ElGamal encryption,Homomorphic encryption,0
+ElGamal encryption,Taher Elgamal,0
+Encryption,Cipher,1
+Encryption,Cryptography,0
+Encryption,Digital rights management,1
+Encryption,Key management,0
+Encryption,Secure Network Communications,0
+Encryption,USB flash drive,0
+GNU Privacy Guard,Aqua (user interface),0
+GNU Privacy Guard,Block cipher,1
+GNU Privacy Guard,Comparison of e-mail clients,0
+GNU Privacy Guard,Email client,0
+GNU Privacy Guard,Horde (software),0
+GNU Privacy Guard,KGPG,0
+GNU Privacy Guard,MD5,2
+GNU Privacy Guard,SHA-1,0
+Integer factorization,Donald Knuth,0
+Integer factorization,Euler's factorization method,0
+Integer factorization,Federal Office for Information Security,0
+Integer factorization,General number field sieve,0
+Integer factorization,Optimization problem,0
+Integer factorization,RSA,0
+Integer factorization,RSA numbers,0
+Key (cryptography),Ciphertext,0
+Key (cryptography),Cryptographic key types,1
+Key (cryptography),Dice,0
+Key (cryptography),Disk storage,0
+Key (cryptography),HMAC,0
+Key (cryptography),Message authentication code,0
+Key (cryptography),Trusted paper key,0
+Key exchange,Algorithm,1
+Key exchange,GNU Privacy Guard,0
+Key exchange,Legislation,0
+Key exchange,Notary public,0
+Key exchange,Pretty Good Privacy,0
+Key exchange,Secure channel,1
+Key exchange,Symmetric-key algorithm,0
+Pretty Good Privacy,Anti-nuclear movement,0
+Pretty Good Privacy,E-mail encryption,0
+Pretty Good Privacy,Encryption,0
+Pretty Good Privacy,GNU Privacy Guard,2
+Pretty Good Privacy,KGPG,0
+Pretty Good Privacy,United States Court of Appeals for the Sixth Circuit,0
+Pretty Good Privacy,United States Munitions List,0
+Pretty Good Privacy,ZRTP,0
+Prime number,Divisor function,0
+Prime number,Euclid's Elements,0
+Prime number,Infinite product,0
+Prime number,Mathematical analysis,0
+Prime number,Proportionality (mathematics),0
+Prime number,Sophie Germain prime,0
+Prime number,Twin prime,0
+Public key certificate,Certificate signing request,0
+Public key certificate,Directive (European Union),0
+Public key certificate,Electronic commerce,0
+Public key certificate,Hash,0
+Public key certificate,OpenSSL,0
+Public key certificate,SUSE Linux distributions,0
+Public key infrastructure,American Bar Association,0
+Public key infrastructure,Bootstrapping,0
+Public key infrastructure,Cryptographic primitive,0
+Public key infrastructure,Government Communications Headquarters,0
+Public key infrastructure,Utah,0
+Public key infrastructure,XML Encryption,0
+Public-key cryptography,Algorithm,1
+Public-key cryptography,Alice and Bob,0
+Public-key cryptography,Authentication,0
+Public-key cryptography,Brute-force attack,0
+Public-key cryptography,Charles Babbage Institute,0
+Public-key cryptography,Ciphertext,0
+Public-key cryptography,Claude Shannon,0
+Public-key cryptography,Clifford Cocks,0
+Public-key cryptography,Cramer–Shoup cryptosystem,0
+Public-key cryptography,Cryptographic hash function,0
+Public-key cryptography,Cryptographic protocol,0
+Public-key cryptography,Cryptosystem,0
+Public-key cryptography,Denial-of-service attack,0
+Public-key cryptography,Digital signature,0
+Public-key cryptography,Encryption,1
+Public-key cryptography,Factorization,1
+Public-key cryptography,History of cryptography,0
+Public-key cryptography,Hybrid cryptosystem,0
+Public-key cryptography,Internet Engineering Task Force,0
+Public-key cryptography,James H. Ellis,1
+Public-key cryptography,John Wiley & Sons,0
+Public-key cryptography,Key distribution,1
+Public-key cryptography,Key exchange,0
+Public-key cryptography,Leonard Adleman,0
+Public-key cryptography,Letter box,0
+Public-key cryptography,Malcolm J. Williamson,0
+Public-key cryptography,Man-in-the-middle attack,0
+Public-key cryptography,Merkle–Hellman knapsack cryptosystem,0
+Public-key cryptography,Merkle's Puzzles,0
+Public-key cryptography,National Institute of Standards and Technology,0
+Public-key cryptography,Neal Koblitz,0
+Public-key cryptography,Non-repudiation,0
+Public-key cryptography,One-time pad,0
+Public-key cryptography,Padlock,0
+Public-key cryptography,Perfect forward secrecy,0
+Public-key cryptography,PGP word list,0
+Public-key cryptography,PKCS1,0
+Public-key cryptography,Pretty Good Privacy,0
+Public-key cryptography,Prime number,1
+Public-key cryptography,Pseudonymity,0
+Public-key cryptography,Public key certificate,0
+Public-key cryptography,Quantum cryptography,0
+Public-key cryptography,Rabin cryptosystem,0
+Public-key cryptography,Ralph Merkle,0
+Public-key cryptography,Scott Vanstone,0
+Public-key cryptography,Seal (emblem),0
+Public-key cryptography,Secure channel,0
+Public-key cryptography,Secure Shell,0
+Public-key cryptography,Side channel attack,0
+Public-key cryptography,SILC (protocol),0
+Public-key cryptography,Taher Elgamal,0
+Public-key cryptography,Three-pass protocol,0
+Public-key cryptography,Trusted third party,0
+Public-key cryptography,United Kingdom,0
+Public-key cryptography,Web browser,0
+Public-key cryptography,Web of trust,0
+Public-key cryptography,Whitfield Diffie,1
+Public-key cryptography,X.509,0
+Public-key cryptography,ZRTP,0
+RSA,Bit,1
+RSA,Clifford Cocks,0
+RSA,IEEE P1363,0
+RSA,Personal computer,0
+RSA,PKCS1,0
+RSA,Primality test,0
+RSA,RSA problem,0
+Symmetric-key algorithm,Algorithm,1
+Symmetric-key algorithm,CBC-MAC,0
+Symmetric-key algorithm,Cryptographic primitive,0
+Symmetric-key algorithm,Initialization vector,1
+Symmetric-key algorithm,Key (cryptography),1
+Symmetric-key algorithm,Message authentication code,0
+Symmetric-key algorithm,Stream cipher,0
+Transport Layer Security,40-bit encryption,0
+Transport Layer Security,FTPS,0
+Transport Layer Security,Internet Engineering Task Force,0
+Transport Layer Security,Internet standard,1
+Transport Layer Security,Java Secure Socket Extension,0
+Transport Layer Security,Microsoft Windows,0
+Transport Layer Security,Network Security Services,0
+Transport Layer Security,Pseudorandom function family,0
+Transport Layer Security,Request for Comments,0
+Transport Layer Security,SEED,0
+Transport Layer Security,Server Name Indication,1
+Transport Layer Security,Tcpcrypt,0
+Transport Layer Security,Transmission Control Protocol,0

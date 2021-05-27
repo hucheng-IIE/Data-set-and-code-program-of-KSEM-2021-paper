@@ -1,0 +1,348 @@
+﻿A,B,result
+Cell cycle,Cellular model,0
+Cell cycle,Cyclin-dependent kinase complex,0
+Cell cycle,Cytokinesis,0
+Cell cycle,Eukaryote,0
+Cell cycle,Leland H. Hartwell,0
+Cell cycle,Metaphase,1
+Cell cycle,Midblastula,0
+Cell cycle,Ploidy,0
+Cell cycle,Retinoblastoma protein,0
+Cell cycle,Thymidine kinase,0
+Centromere,Anti-nuclear antibody,0
+Centromere,Caenorhabditis elegans,0
+Centromere,Chromosome,0
+Centromere,Chromosome 13 (human),0
+Centromere,Conspecificity,0
+Centromere,DNA,0
+Centromere,Genetics,0
+Centromere,Kinetochore,0
+Centromere,RNA interference,0
+Centromere,Robertsonian translocation,0
+Centromere,Schizosaccharomyces pombe,0
+Centromere,Sister chromatids,0
+Centrosome,Amorphous solid,0
+Centrosome,Astral microtubules,0
+Centrosome,Centrin,0
+Centrosome,Centriole,0
+Centrosome,Cyclin-dependent kinase 2,0
+Centrosome,Eukaryote,2
+Centrosome,Flagellum,1
+Centrosome,Giardia lamblia,0
+Centrosome,Golgi apparatus,0
+Centrosome,Mitochondrion,0
+Centrosome,NIN (gene),0
+Centrosome,Nuclear envelope,0
+Centrosome,Ribosome,0
+Centrosome,RNA polymerase,0
+Centrosome,Vesicle (biology and chemistry),0
+Centrosome,Zygote,0
+Chiasma (genetics),Belgium,0
+Chiasma (genetics),Catholic University of Leuven,0
+Chiasma (genetics),Chromatid,0
+Chiasma (genetics),Chromosomal crossover,0
+Chiasma (genetics),Frans Alfons Janssens,0
+Chiasma (genetics),Genetics,0
+Chiasma (genetics),Meiosis,1
+Chromatid,Cell division,1
+Chromatid,Chromosome,1
+Chromatid,DNA replication,0
+Chromatid,Homologous chromosome,1
+Chromatid,Meiosis,0
+Chromatid,Ploidy,0
+Chromatid,Sister chromatids,0
+Chromosomal crossover,Allele,1
+Chromosomal crossover,Cell (biology),0
+Chromosomal crossover,Chiasma (genetics),0
+Chromosomal crossover,Chromatid,1
+Chromosomal crossover,Chromosomal inversion,0
+Chromosomal crossover,Chromosome,1
+Chromosomal crossover,Coefficient of coincidence,0
+Chromosomal crossover,Deletion (genetics),0
+Chromosomal crossover,Drosophila,0
+Chromosomal crossover,Eukaryote,0
+Chromosomal crossover,Gene duplication,0
+Chromosomal crossover,Genetic linkage,1
+Chromosomal crossover,Genetic recombination,0
+Chromosomal crossover,Holliday junction,0
+Chromosomal crossover,Linkage disequilibrium,0
+Chromosomal crossover,Meiosis,1
+Chromosomal crossover,Mendelian inheritance,0
+Chromosomal crossover,Mitotic crossover,2
+Chromosomal crossover,Nucleic acid sequence,0
+Chromosomal crossover,Synapsis,0
+Chromosomal crossover,Synaptonemal complex,0
+Chromosomal crossover,Tetrahedron,0
+Chromosomal crossover,Thomas Hunt Morgan,0
+Chromosomal crossover,Zygote,0
+Chromosome,Base pair,0
+Chromosome,Chimpanzee,0
+Chromosome,Chloroplast,0
+Chromosome,Durum,0
+Chromosome,Epulopiscium fishelsoni,0
+Chromosome,Euchromatin,0
+Chromosome,Gamete,0
+Chromosome,Genus,0
+Chromosome,Histone,0
+Chromosome,Lampbrush chromosome,0
+Chromosome,Mitochondrion,0
+Chromosome,Patau syndrome,0
+Chromosome,Polyploid,0
+Chromosome,Sex-determination system,0
+Chromosome,Spirochaete,0
+Chromosome,Wilhelm Roux,0
+Chromosome,X0 sex-determination system,0
+Dictyate,Cytoplasmic polyadenylation element,0
+Dictyate,Embryo,0
+Dictyate,Immature ovum,0
+Dictyate,Messenger RNA,0
+Dictyate,Oocyte,1
+Dictyate,Oogenesis,2
+Dictyate,Puberty,0
+Dictyate,Transcription (genetics),0
+Dictyate,Zygote,0
+Eukaryote,Carl Linnaeus,0
+Eukaryote,Cell wall,0
+Eukaryote,Cellulose,0
+Eukaryote,Chitin,0
+Eukaryote,Chlorophyll,0
+Eukaryote,Dynein,0
+Eukaryote,Endoplasmic reticulum,0
+Eukaryote,Heliozoa,0
+Eukaryote,Inner membrane,0
+Eukaryote,Micrometre,0
+Eukaryote,Monophyly,1
+Eukaryote,Organism,0
+Eukaryote,Peroxide,0
+Eukaryote,Pre-cell,1
+Eukaryote,Shale,0
+Fungus,Algae,0
+Fungus,Amanita,0
+Fungus,Choanozoa,1
+Fungus,Cryptococcosis,0
+Fungus,Ecological succession,0
+Fungus,Entomopathogenic fungus,0
+Fungus,Glomeromycota,0
+Fungus,Immunosuppressant,0
+Fungus,Lactic acid,0
+Fungus,Mevalonate pathway,0
+Fungus,Multinucleate,0
+Fungus,Mycetoma,0
+Fungus,Paleozoic,0
+Fungus,Psychedelic drug,0
+Fungus,Tinder,0
+Fungus,Vegetative reproduction,0
+Gamete,Anisogamy,0
+Gamete,Chromosomal crossover,0
+Gamete,Cytoplasm,0
+Gamete,Genetic recombination,0
+Gamete,Genetics,0
+Gamete,Heterogamy,0
+Gamete,Isogamy,0
+Gamete,Mating type,0
+Gamete,Meiosis,1
+Gamete,Nucleic acid sequence,0
+Gamete,Ovum,0
+Gamete,Sex,1
+Gamete,Sperm,1
+Gamete,Zygote,0
+Homologous chromosome,Allele,0
+Homologous chromosome,Anaphase,0
+Homologous chromosome,Autosome,1
+Homologous chromosome,Centromere,0
+Homologous chromosome,Chromosome,1
+Homologous chromosome,Evolution,0
+Homologous chromosome,Gamete,0
+Homologous chromosome,Heredity,0
+Homologous chromosome,Locus (genetics),0
+Homologous chromosome,Natural selection,0
+Homologous chromosome,Ploidy,0
+Homologous chromosome,Polyploid,0
+Homologous chromosome,Synteny,0
+Homologous chromosome,X chromosome,0
+Homologous chromosome,Y chromosome,0
+Homologous recombination,Bacterial conjugation,0
+Homologous recombination,Endonuclease,0
+Homologous recombination,Ovum,0
+Homologous recombination,Phosphorylation,0
+Homologous recombination,Phylogenetic tree,0
+Homologous recombination,Protein subunit,0
+Homologous recombination,SCHEMA (bioinformatics),0
+Homologous recombination,Sequence motif,0
+Homologous recombination,Sperm,1
+Homologous recombination,Tumor suppressor gene,0
+Homologous recombination,Viral evolution,1
+Meiosis,Adaptation,0
+Meiosis,Allele,1
+Meiosis,Amoebozoa,0
+Meiosis,Animal,0
+Meiosis,Archaea,0
+Meiosis,Archaeplastida,0
+Meiosis,August Weismann,0
+Meiosis,Bacteria,0
+Meiosis,Bdelloidea,0
+Meiosis,Cell cycle,0
+Meiosis,Centriole,0
+Meiosis,Centromere,0
+Meiosis,Centrosome,1
+Meiosis,Chiasma (genetics),0
+Meiosis,Chromalveolate,0
+Meiosis,Chromatid,1
+Meiosis,Chromosomal crossover,0
+Meiosis,Chromosome,1
+Meiosis,Coefficient of coincidence,0
+Meiosis,Death,0
+Meiosis,Dictyate,0
+Meiosis,DNA replication,1
+Meiosis,Down syndrome,0
+Meiosis,Drosophila melanogaster,0
+Meiosis,Edouard Van Beneden,0
+Meiosis,Edwards syndrome,0
+Meiosis,Egg (biology),0
+Meiosis,Euglenid,0
+Meiosis,Eukaryote,0
+Meiosis,Evolution,0
+Meiosis,Figure of speech,0
+Meiosis,Fission (biology),0
+Meiosis,Folliculogenesis,0
+Meiosis,Fungus,0
+Meiosis,G2 phase,0
+Meiosis,Gene family,0
+Meiosis,Genetic diversity,1
+Meiosis,Genetic variation,0
+Meiosis,Genome,0
+Meiosis,Germ cell,0
+Meiosis,Homologous chromosome,1
+Meiosis,Homologous recombination,0
+Meiosis,Interphase,0
+Meiosis,Klinefelter's syndrome,0
+Meiosis,Metaphase,0
+Meiosis,Microtubule,0
+Meiosis,Mitosis,0
+Meiosis,Monosomy,0
+Meiosis,Nuclear envelope,1
+Meiosis,Nucleolus,0
+Meiosis,Oogenesis,0
+Meiosis,Oogonium,1
+Meiosis,Opisthokont,0
+Meiosis,Oscar Hertwig,0
+Meiosis,Ovarian follicle,0
+Meiosis,Ovum,0
+Meiosis,Paraphyly,1
+Meiosis,Phenotype,0
+Meiosis,Ploidy,0
+Meiosis,Polar body,0
+Meiosis,Prometaphase,0
+Meiosis,Prophase,0
+Meiosis,Protozoa,0
+Meiosis,Puberty,0
+Meiosis,Rhizaria,0
+Meiosis,S phase,0
+Meiosis,Sexual reproduction,1
+Meiosis,Sister chromatids,2
+Meiosis,Spermatogenesis,0
+Meiosis,Spermatozoon,0
+Meiosis,Spore,0
+Meiosis,Synaptonemal complex,0
+Meiosis,Telophase,1
+Meiosis,Thomas Hunt Morgan,0
+Meiosis,Trisomy,2
+Meiosis,United States,0
+Meiosis,XYY syndrome,0
+Meiosis,Zygote,0
+Mitosis,Algae,0
+Mitosis,Anaphase,1
+Mitosis,Aneuploidy,0
+Mitosis,Animal,0
+Mitosis,Aspergillus nidulans,0
+Mitosis,Cell cycle,1
+Mitosis,Cell division,0
+Mitosis,Centriole,0
+Mitosis,Centromere,0
+Mitosis,Centrosome,2
+Mitosis,Chromosome abnormality,0
+Mitosis,Cleavage furrow,0
+Mitosis,Cohesin,0
+Mitosis,Cytoskeleton,0
+Mitosis,Deletion (genetics),0
+Mitosis,DNA,1
+Mitosis,Fission (biology),1
+Mitosis,Flowering plant,0
+Mitosis,Fluorescence,0
+Mitosis,Fungus,0
+Mitosis,Gene duplication,0
+Mitosis,Golgi apparatus,0
+Mitosis,Hydra,0
+Mitosis,Interphase,0
+Mitosis,Kinetochore,0
+Mitosis,Meiosis,0
+Mitosis,Mitogen,1
+Mitosis,Molecular motor,0
+Mitosis,Motor protein,0
+Mitosis,Phragmoplast,0
+Mitosis,Phycoplast,1
+Mitosis,Prometaphase,0
+Mitosis,Staining,0
+Mitosis,Tubulin,0
+Mitosis,Yeast,0
+Nuclear envelope,Cell (biology),1
+Nuclear envelope,Cell nucleus,1
+Nuclear envelope,Chromosome,1
+Nuclear envelope,Endoplasmic reticulum,0
+Nuclear envelope,Eukaryote,0
+Nuclear envelope,Lamin,0
+Nuclear envelope,Lamin B receptor,0
+Nuclear envelope,Lipid bilayer,1
+Nuclear envelope,Metaphase,0
+Nuclear envelope,Mitosis,0
+Nuclear envelope,Nuclear lamina,0
+Nuclear envelope,Perinuclear space,0
+Nuclear envelope,Protein,0
+Oogenesis,Ascaris,0
+Oogenesis,Fern,0
+Oogenesis,Gametogenesis,1
+Oogenesis,Immature ovum,1
+Oogenesis,In vitro,0
+Oogenesis,Meiosis,0
+Oogenesis,Mitosis,0
+Oogenesis,Ovary (plants),0
+Oogenesis,Plant,0
+Oogenesis,Spermatogenesis,0
+Oogenesis,Tetrad,0
+Oogenesis,Theca of follicle,0
+Sexual reproduction,Animal,0
+Sexual reproduction,Cloaca,0
+Sexual reproduction,Fern,0
+Sexual reproduction,Flowering plant,0
+Sexual reproduction,Gestation period,0
+Sexual reproduction,Guppy,0
+Sexual reproduction,Hermaphrodite,0
+Sexual reproduction,Karyogamy,0
+Sexual reproduction,Morphogenesis,0
+Sexual reproduction,Nutrient,0
+Sexual reproduction,Placenta,0
+Sexual reproduction,Rhizome,0
+Sexual reproduction,Self-pollination,0
+Sexual reproduction,Sporophyte,0
+Sexual reproduction,Stenian,0
+SourceConceptBase,TargetConceptBase,0
+Spermatozoon,Chromatin,0
+Spermatozoon,Drosophila melanogaster,0
+Spermatozoon,Fibrinolysin,0
+Spermatozoon,Insemination,0
+Spermatozoon,Ionophore,0
+Spermatozoon,Micrometre,0
+Spermatozoon,Model organism,0
+Spermatozoon,Pollen tube,0
+Spermatozoon,Semen quality,0
+Spermatozoon,Somatic cell,0
+Spermatozoon,Vagina,0
+Spermatozoon,Y chromosome,0
+Synaptonemal complex,Chromosomal crossover,0
+Synaptonemal complex,Chromosome,1
+Synaptonemal complex,Gene,0
+Synaptonemal complex,Genetic recombination,0
+Synaptonemal complex,Meiosis,1
+Synaptonemal complex,Protein,1
+Synaptonemal complex,Sister chromatids,0
+Synaptonemal complex,Synapsis,0
