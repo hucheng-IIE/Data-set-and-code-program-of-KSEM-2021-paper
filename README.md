@@ -2,7 +2,7 @@
 2021-2-paper
 
 
-这里存放了发表在ksem2021上的论文https://link.springer.com/chapter/10.1007%2F978-3-030-82136-4_2 的相关代码，数据，实验部分结果数据及维基百科API文档
+这里存放了发表在ksem2021上的论文https://link.springer.com/chapter/10.1007%2F978-3-030-82136-4_2 的相关代码，数据，实验部分结果数据，维基百科API文档及会议演示ppt
 
 # 代码
 
